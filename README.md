@@ -19,4 +19,4 @@ URL: https://web.aka-portfolio.com<br>
 # 機能詳細
 * HTML, CSS, JavaScript(jQuery)を用いたコーディング（レスポンシブ対応）  
 * jQuery(slick, swiper)を用いたスライド機能  
-
+* AWSを用いた本番環境へのデプロイ
