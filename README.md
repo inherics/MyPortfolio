@@ -1,6 +1,6 @@
 # MyPortfolio
 オリジナルポートフォリオサイト
-![MyPortfolio](./img/MyPortfolio1.png)
+
 
 # リンク
 URL: https://web.aka-portfolio.com<br>
