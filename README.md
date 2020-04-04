@@ -1,5 +1,6 @@
 # MyPortfolio
 オリジナルポートフォリオサイト
+![MyPortfolio](./img/MyPortfolio1.png)
 
 
 # リンク
